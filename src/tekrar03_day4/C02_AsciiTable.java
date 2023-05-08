@@ -1,4 +1,4 @@
-package agaın03_day4;
+package tekrar03_day4;
 
 import java.util.Scanner;
 

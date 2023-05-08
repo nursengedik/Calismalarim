@@ -1,4 +1,4 @@
-package agaın03_day4;
+package tekrar03_day4;
 
 public class C01_AsciiTable {
 
